@@ -1,3 +1,3 @@
 print("gggggggg")
 
-print('Eva is smart.')
+print('Eva is not smart.')
